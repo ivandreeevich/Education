@@ -1,4 +1,4 @@
-![Одна собака](https://habrastorage.org/r/w1560/webt/c2/mb/uj/c2mbujzyyt8m8bw24satglntff0.png)
+![](https://habrastorage.org/r/w1560/webt/c2/mb/uj/c2mbujzyyt8m8bw24satglntff0.png)
 # **Математика для Data Science**
 ___
 ## Линейная алгебра
